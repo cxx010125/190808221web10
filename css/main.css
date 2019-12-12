@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+#body{
+	display: block;
+	font-size:16px;
+	color:aqua;
+}
+
+#h1{
+	text-align:center;
+	font-family:方正姚体,黑体,宋体;
+	font-text:20px;font-weight;
+}
+#h1 p{font-size: 30px;
+	color:aquamarine;}
+
+#h2{font-family:黑体;
+	font-text:16px;
+	color:#099;
+}
+
+#p{
+	line-height:2em;
+}
+
+#nav{
+	background-color:#9F0;
+	text-align:center;
+	font-text:18px;
+}
+
+
+#copyright{
+	text-align:center;
+	border-bottom:solid 10px transparent;
+	text-align:center;
+	color:brown;
+}
+
+#tri{
+	display: inline-block;
+	width:0px;
+	height:0px;
+	border:10px solid transparent;
+	border-top-color:greenyellow;
+}
+
+#div{
+	width:80%;
+	min-height:700px;
+	margin:0px auto;
+	padding:5px 20px;
+	background-color:lightslategray;
+}
+
+
